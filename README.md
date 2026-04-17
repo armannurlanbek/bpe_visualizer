@@ -9,7 +9,7 @@ An interactive full-stack app that teaches Byte Pair Encoding (BPE) by animating
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/your-username/bpe-lab?style=social)
 
-Live demo: [https://your-demo-url.vercel.app](https://your-demo-url.vercel.app)
+Live demo: https://bpe-visualizer-red.vercel.app/
 
 ## Screenshot / GIF
 
@@ -71,15 +71,9 @@ Optional env:
 # frontend/.env
 VITE_API_URL=http://localhost:8000
 ```
-
-## Deployment
-
-See [deploy.md](./deploy.md) for Render + Vercel step-by-step deployment.
-
 ## Credits
 
 - Built during learning at **nFactorial School**
-- Inspired by tokenizer visual explainers including `tiktokenizer.vercel.app`
 
 ## Tech Stack
 
